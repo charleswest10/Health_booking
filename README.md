@@ -22,7 +22,7 @@ The application is deployed on Netlify and can be accessed at [ApexBooking Healt
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/ApexBooking-Health.git
+   git clone https://github.com/your-username/charleswest10/Health_booking.git
    cd ApexBooking-Health
    
 2. Navigate to the server directory
